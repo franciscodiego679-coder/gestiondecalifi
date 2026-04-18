@@ -1,0 +1,84 @@
+# =========================
+# Visual Studio
+# =========================
+
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.VC.db
+*.VC.opendb
+
+# =========================
+# Compilación
+# =========================
+
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# =========================
+# Archivos generados
+# =========================
+
+bin/
+obj/
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.pch
+*.pdb
+*.ilk
+
+# =========================
+# Archivos temporales
+# =========================
+
+*.log
+*.tmp
+*.cache
+*.tlog
+
+# =========================
+# Archivos de usuario
+# =========================
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# CMake (si usas)
+# =========================
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =========================
+# Otros
+# =========================
+
+*.opensdf
+*.sdf
+*.ipch/
+*.aps
+*.ncb
+
+# =========================
+# Sistema operativo
+# =========================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
